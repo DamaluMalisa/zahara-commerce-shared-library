@@ -19,9 +19,9 @@ To use it in your Maven build add:
 and the dependency:
 
 ```xml
-<dependency>
-    <groupId>com.github.DamaluMalisa</groupId>
-	    <artifactId>course-management-system</artifactId>
-    <version>Tag</version>
-</dependency>
+   <dependency>
+            <groupId>com.github.DamaluMalisa</groupId>
+            <artifactId>zahara-commerce-shared-library</artifactId>
+            <version>-SNAPSHOT</version>
+        </dependency>
 ```
