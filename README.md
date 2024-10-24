@@ -20,8 +20,8 @@ and the dependency:
 
 ```xml
 <dependency>
-    <groupId>com.github.</groupId>
-    <artifactId>learning-management-system-shared-library</artifactId>
+    <groupId>com.github.DamaluMalisa</groupId>
+	    <artifactId>course-management-system</artifactId>
     <version>Tag</version>
 </dependency>
 ```
